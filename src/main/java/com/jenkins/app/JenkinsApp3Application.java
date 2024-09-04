@@ -8,7 +8,7 @@ public class JenkinsApp3Application {
 
 	public static void main(String[] args) {
 		System.out.println("--> My Applcation Being Started...");
-		System.out.println("Hello world");
+		System.out.println("Hello world Updating...");
 		SpringApplication.run(JenkinsApp3Application.class, args);
 	}
 
